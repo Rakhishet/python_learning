@@ -29,4 +29,3 @@ Following the **Socratica Python Tutorial Playlist** — known for its high-qual
 **Status**: In Progress  
 **Level**: Beginner → Intermediate
 
-Feel free to explore, learn along, or use it as a reference!
